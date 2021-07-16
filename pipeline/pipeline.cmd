@@ -1,1 +1,1 @@
-mvnw.cmd -X -U -f pipeline/pom.xml clean compile -s C:\Users\davidconnolly\.m2\settings_external.xml
+mvnw.cmd -f pipeline/pom.xml clean compile

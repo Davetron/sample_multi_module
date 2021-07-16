@@ -2,3 +2,4 @@
 /application/application.iml
 /.mvn/wrapper/wrapper.iml
 /.idea/
+/pipeline/target/

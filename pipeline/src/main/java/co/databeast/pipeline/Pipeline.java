@@ -14,7 +14,7 @@ public class Pipeline {
 
         String repository = System.getProperty("repository", REPOSITORY_URI);
 
-        conveyor("co.databeast.co.databeast.pipeline.Pipeline",
+        conveyor("co.databeast.pipeline.Pipeline",
                 stage("Build",
                         job("Application Build",
                                 gitClone(repository),
