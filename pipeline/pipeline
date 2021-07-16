@@ -1,0 +1,1 @@
+mvnw -f pipeline/pom.xml clean compile
