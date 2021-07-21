@@ -20,7 +20,7 @@
         <dependency>
             <groupId>co.databeast</groupId>
             <artifactId>conveyor</artifactId>
-            <version>0.5-SNAPSHOT</version>
+            <version>0.5-RELEASE</version>
         </dependency>
     </dependencies>
 
