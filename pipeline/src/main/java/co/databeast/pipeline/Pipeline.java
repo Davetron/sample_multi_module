@@ -22,6 +22,5 @@ public class Pipeline {
                         )
                 )
         ).start();
-        System.out.println("Completed pipeline");
     }
 }
